@@ -1,0 +1,10 @@
+This is text file has not been uploaded and cached.
+This will be the first time metadefender cloud has seen this file. 
+
+I have enjoyed this assessment very much. It is the first time I have
+actually consumed a web api and it has beed a really nice learning 
+experience. Having finished this, I already have idea on how to improve it 
+and what should be refactored, or reimagined. I look forward to hearing
+feedback from the team!
+
+~ Nicholas 
